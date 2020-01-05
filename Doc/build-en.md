@@ -68,12 +68,12 @@ Attach the LED chip so that the cut on both sides matches the silk.
 ~~-On Master half, LED corner will Match the silkscreen~~  
 ~~-On Slave half, LED corner needs to be 180 from silkscreen~~  
 
--Installation notes:
-  -use tape to hold in place, solder one side, remove tape, then solder other
-  -Notes from first time soldering with these LED:
-    -I attempted to pre-solder pads with bad results (As recommended for other surface mount I did before)
-    -Leaving iron on too long appeared to melt the casing of the LED (Use fine tip if you have it? I didnt)
-    -1sec on pad to pre-heat, then off and come back with iron and solder is what worked best for me
+- Installation notes:
+  - use tape to hold in place, solder one side, remove tape, then solder other
+  - Notes from first time soldering with these LED:
+    - I attempted to pre-solder pads with bad results (As recommended for other surface mount I did before)
+    - Leaving iron on too long appeared to melt the casing of the LED (Use fine tip if you have it? I didnt)
+    - 1sec on pad to pre-heat, then off and come back with iron and solder is what worked best for me
 
 <img width="400" alt="RGB_Left" src="https://github.com/omkbd/picture/blob/master/RGB_Left.jpg">
 <img width="700" alt="RGB_Left_Finish" src="https://github.com/omkbd/picture/blob/master/RGB_Left_Finish.jpg">
